@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white"/> <!-- Warna latar belakang -->
+            <corners android:radius="12dp"/> <!-- Membuat sudut melengkung -->
+            <stroke android:width="2dp" android:color="@android:color/holo_blue_dark"/> <!-- Warna border -->
+            <padding android:left="12dp" android:right="12dp"/>
+        </shape>
+    </item>
+<!--    <item>-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <solid android:color="@color/white"/>-->
+<!--            <corners android:radius="12dp"/>-->
+<!--            <stroke android:width="2dp" android:color="@android:color/holo_blue_dark"/>-->
+<!--            <padding android:left="12dp" android:right="12dp"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+</selector>
